@@ -14,7 +14,10 @@ or change the theme of [an existing site](#existing-sites).
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
+
 ## New sites
+* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
+{:.related-posts.faded}
 For new sites, the best way to get started with Hydejack is via the Starter Kit. 
 It comes with a documented config file and example content that gets you started quickly.
 
